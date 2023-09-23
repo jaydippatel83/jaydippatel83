@@ -21,7 +21,7 @@ Passionate Full Stack Developer with expertise in JavaScript 🌐, React ⚛️,
 
 ## 📧 Contact Information
 - Email:jaydippatel83.pj@gmail.com
-- LinkedIn: [linkedin.com/jaydippatel](https://www.linkedin.com/in/jaydip-patel-a758a0176/)
+- LinkedIn: [linkedin.com/jaydippatel](https://www.linkedin.com/in/jaydippatel83/)
 - Personal Website: [jaydippatel83](https://jaydip.vercel.app/)
   
 ## 🙏 Acknowledgments
