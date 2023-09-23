@@ -6,7 +6,7 @@ Passionate Full Stack Developer with expertise in JavaScript 🌐, React ⚛️,
 
 ## 💻 Technical Skills
 - Programming Languages: JavaScript 🌐, Solidity 📜
-- Frontend: React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap
+- Frontend: NExtjs, React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap
 - Backend: Node.js 🚀, Express, MongoDB, Firebase 
 - Blockchain: Solidity 📜, Truffle, Web3.js, Hardhat
 
