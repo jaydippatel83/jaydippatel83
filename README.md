@@ -6,7 +6,7 @@ Passionate Full Stack Developer with expertise in JavaScript 🌐, React ⚛️,
 
 ## 💻 Technical Skills
 - Programming Languages: JavaScript 🌐, Solidity 📜
-- Frontend: NExtjs, React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap
+- Frontend: Nextjs, React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap
 - Backend: Node.js 🚀, Express, MongoDB, Firebase 
 - Blockchain: Solidity 📜, Truffle, Web3.js, Hardhat
 
@@ -24,7 +24,4 @@ Passionate Full Stack Developer with expertise in JavaScript 🌐, React ⚛️,
 - LinkedIn: [linkedin.com/jaydippatel](https://www.linkedin.com/in/jaydippatel83/)
 - Personal Website: [jaydippatel83](https://jaydip.vercel.app/)
   
-## 🙏 Acknowledgments
-- Thanks to the creators of React ⚛️ and Node.js 🚀 for their amazing frameworks.
-- Grateful to the open-source community for their valuable contributions.
 
