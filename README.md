@@ -1,23 +1,77 @@
 
 # 👋 Jaydip Patel
 
-## 👨‍💻 Summary
-Passionate Full Stack Developer with expertise in JavaScript 🌐, React ⚛️, Node.js 🚀, and Solidity 📜. Experienced in building scalable web applications and delivering high-quality code. Strong problem-solving skills and a keen eye for detail. Committed to continuous learning and staying up-to-date with emerging technologies. 
-
+## 👨‍💻 Professional Summary
+Full Stack Developer with 7+ years of experience building web and blockchain-based applications across certification platforms, NFT marketplaces, metaverse products, Defi, and gaming solutions. Strong background in JavaScript, TypeScript, React.js, Next.js, Node.js, REST APIs, and smart contract integration using Solidity, Rust. Proven ability to grow from intern to Full Stack Blockchain Developer while delivering scalable applications, learning new technologies quickly, and contributing across frontend, backend, and product development.
+ 
 ## 💻 Technical Skills
-- Programming Languages: JavaScript 🌐, Solidity 📜
-- Frontend: Nextjs, React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap
-- Backend: Node.js 🚀, Express, MongoDB, Firebase 
-- Blockchain: Solidity 📜, Truffle, Web3.js, Hardhat
+- Programming Languages: JavaScript, TypeScript, Solidity, Rust, PHP
+- Frontend: Nextjs, React ⚛️, Redux, HTML, CSS, Tailwindcss, Bootstrap, Shadcn/ui,
+- Backend: Node.js 🚀, Express,Hono, REST APIs.
+- Database:Supabase, MySQL, PostgreSQL, MongoDB, Firebase.
+- Blockchain: Solidity 📜, Truffle, Web3.js, Hardhat, ether.js, rainbowkit, Rust, Solana Anchor Program.
+
+## Tools & Project Management
+ - Jira
+ - Trello
+ - Github
+ - Bitbucket
+ - Docker
+ - Postman
 
 ## 🏢 Work Experience
-### CodeCrunch - Full Stack Developer
-- Developed and maintained web applications using React ⚛️ and Node.js 🚀.
-- Collaborated with cross-functional teams to deliver high-quality software.
-- Conducted code reviews and mentored junior developers.
+### Frontend Developer
+ - CodeCrunch Techlabs | May 2019 – December 2020
+   
+### Web Development Intern
+ - CodeCrunch Techlabs | December 2018 – May 2019
+
+### Full Stack Blockchain Developer
+ - CodeCrunch Techlabs | January 2021 – Present
+
+###  Project Exposure
+## AGI Citizens(https://beta.agicitizens.com)
+  - Developed a crypto market research agent for
+    AGICitizens, enabling autonomous analysis of
+    market trends within a Solana-based agent
+    marketplace that supports wallet
+    authentication, reputation, and on-chain
+    settlement.
+
+## BlockchainHQ(https://blockchainhq.xyz)
+  - Contributed to a Web3 builder platform
+    featuring jobs, hackathons, learning
+    resources, stories, open-source projects, and
+    developer tools such as an AMM Simulator,
+    LP Simulator, and Vesting Visualizer.
+    
+## SMB Market(https://smbmarket.com)
+  - Contributed to a business acquisition
+    discovery platform that aggregates thousands
+    of SMB listings in one place, with advanced
+    filters, alerts, and tracking features to help
+    users identify and monitor deal opportunities
+    efficiently.
+    
+## CoinTopper (https://cointopper.com)
+  - CoinTopper is your ultimate crypto
+    knowledge and discovery platform. Stay
+    ahead with the latest news, guides, airdrops,
+    and events in the crypto world.
+    
+## Trustified(https://www.trustified.xyz/)
+  - Built features for a blockchain-based
+    certification platform that issues forgery-proof
+    digital certificates and badges, enabling secure
+    verification and trusted credential management.
+
 
 ## 🎓 Education
--  Master of Computer Application - Saurashtra University
+-  Master of Computer Applications (MCA)
+-  Saurashtra University, Rajkot | 2016 – 2019
+
+-  Bachelor’s Degree, Computer Science(BCA)
+-  Veer Narmad South Gujarat University, Surat | 2011-2015
 
 ## 📧 Contact Information
 - Email:jaydippatel83.pj@gmail.com
